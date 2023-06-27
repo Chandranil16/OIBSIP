@@ -1,4 +1,4 @@
-# OIBSIP
+# oibsip_2
 Oasis Infobyte Internship - Java Programming
 
 TASK 2 - NUMBER GUESSING GAME
